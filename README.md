@@ -7,10 +7,10 @@ Fare (fà·re) meaning “to do” in Italian, is a to do list prototype I made 
 - HTML
 - CSS
 - JavaScript
-- ReactJS
+- React
 - Ant Design
 - Heroku
-- NodeJS
+- Node.js
 - MongoDB
 
 ### Features
