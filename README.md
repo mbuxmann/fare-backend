@@ -1,5 +1,5 @@
 # Fare Website
-Fare (fà·re) meaning “to do” in Italian, is a prototype I made using React.
+Fare (fà·re) meaning “to do” in Italian, is a to do list prototype I made using React.
 
 <b>Website:</b> [Fare](https://bitvivaz.com/fare/)
 
