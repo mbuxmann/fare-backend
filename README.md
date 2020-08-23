@@ -20,7 +20,7 @@ Fare (fà·re) meaning “to do” in Italian, is a prototype I made using React
 
 ### Source Code
 
-- Back end: [GitHub](https://github.com/bitVivAZ/fare-server)
+- Front end: [GitHub](https://github.com/bitVivAZ/fare)
 
 ### Screenshots
 ![](screenshots/screenOne.png)
